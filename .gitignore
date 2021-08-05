@@ -1,0 +1,5 @@
+# Ignore files
+software/*
+# Files no to be ignored
+./LICENSE
+./README.md
